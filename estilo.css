@@ -1,0 +1,39 @@
+#titulo{
+    color: rgb(255,255,255);
+    border-style:ridge;
+    border-color:blue;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-width: 7px;
+    margin: 6px 120px 6px 120px;
+    text-align: center;
+    text-shadow: 3px 3px 5px;
+    font-size: 40px;
+}
+header{
+    background-image: url("logo.jpeg");
+    background-size: 180px 180px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: black;
+}
+#tuto{
+    height: 180px;
+    background-color: rgba(0,0,205,0.5);
+}
+.parrafo{
+    font-size: 20px;
+}
+section{
+    background-image: url("facu2.jpeg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position-x: center;
+}
+#cuerpo{
+    text-align: center;
+    color:rgb(255,255,255);
+    background-color: rgba(0,0,0,0.3);
+    margin: 0px 350px 0px 350px;
+    padding: 30px 40px 30px 40px;
+}
